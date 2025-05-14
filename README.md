@@ -10,6 +10,7 @@ I will collect your home assignment solutions through private github repositorie
 
 #	File	Deadline
 
-| 01 | [Homeworks/[HW1_Python]-YOUR_NAME.ipynb](Homeworks/[HW1_Python]-YOUR_NAME.ipynb) | February, 19. 11:59 pm |
+| 01 | [[HW1_Python]-YOUR_NAME.ipynb](Homeworks/[HW1_Python]-YOUR_NAME.ipynb) | February, 19. 11:59 pm |
 | -- | ------------------------| ------- |
-| 02 | [Homeworks/[HW2_Python]-YOUR_NAME.ipynb](Homeworks/[HW2_Python]-YOUR_NAME.ipynb) | March, 11. 11:59 pm |
+| 02 | [[HW2_Python]-YOUR_NAME.ipynb](Homeworks/[HW2_Python]-YOUR_NAME.ipynb) | March, 11. 11:59 pm |
+| 03 | [[HW3_Python]-YOUR_NAME.ipynb](Homeworks/[HW3_Python]-YOUR_NAME.ipynb) | May, 21. 11:59 pm |
